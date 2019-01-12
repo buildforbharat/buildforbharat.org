@@ -8,9 +8,9 @@ const Header = (props) => (
         </div>
         <div className="content">
             <div className="inner">
-                <h1>Dimension</h1>
-                <p>A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />
-                for free under the <a href="https://html5up.net/license">Creative Commons</a> license.</p>
+                <h1>BuildForBharat.org</h1>
+                <p>BuildForBharat is the digital arm for progressive and liberal political campaigns in India. We empower developers, data scientists, and other top tech professionals to contribute expertise as a changemaker to state and central campaigns.
+We are affiliated with INCData.in - which is the data science organization of the Indian National Congress.</p>
             </div>
         </div>
         <nav>
